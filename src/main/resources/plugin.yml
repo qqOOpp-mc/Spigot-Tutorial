@@ -1,0 +1,7 @@
+name: SpigotTutorial
+version: '${project.version}'
+main: qqoopp.montistudio.spigottutorial.SpigotTutorial
+api-version: 1.16
+authors: [ _qqOOpp_ ]
+description: 1.16.5 Tutorial of Spigot Plugin
+website: https://www.youtube.com/c/수석연구원꾸쁘
